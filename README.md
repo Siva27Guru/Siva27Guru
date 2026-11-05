@@ -62,230 +62,48 @@ Now Focusing on Public Key Infrastructure (PKI), digital certificates, cryptogra
 - **Backend Engineering** — Python (Django/Flask), Golang, REST APIs, PostgreSQL, MongoDB, Redis
 - **System Design** — LLD, HLD, distributed systems, security architecture, and scalable backend design
 
-```mermaid
+mindmap
   root((Security Engineering))
     PKI and Certificates
-      PKI Architecture
-      Root CA and Sub CA
-      X.509 and C.509
-      ASN.1 DER PEM
-      CSR Processing
-      Certificate Lifecycle
-      Certificate Issuance
-      Certificate Renewal
-      Certificate Revocation
-      CRL
+      X.509
+      Certificate lifecycle
+      CA infrastructure
       OCSP
-      Certificate Validation
-      PKCS11
-      HSM Integration
-      Key Management
-      PKI Automation
-
+      CRL
     Cryptography
-      Symmetric Cryptography
-        AES
-        AES GCM
-        ChaCha20
-      Asymmetric Cryptography
-        RSA
-        ECC
-        ECDSA
-        EdDSA
-        ECDH
-      Hashing and Integrity
-        SHA 256
-        SHA 3
-        HMAC
-        HKDF
-      Digital Signatures
-      Key Exchange
-      Random Number Generation
-      Post Quantum Cryptography
-        ML KEM
-        ML DSA
-        SLH DSA
-        Hybrid Cryptography
-      Fully Homomorphic Encryption
-      Secure Multiparty Computation
-
+      RSA
+      ECC
+      EdDSA
+      Post-Quantum
+      FHE
     Secure Protocols
-      TLS 1.2 and TLS 1.3
-      Mutual TLS
+      TLS 1.3
+      mTLS
       DTLS
-      MQTT over TLS
-      CoAP
-      OSCORE
-      Certificate Based Authentication
-      OAuth 2.0
-      OpenID Connect
-      SAML
-      RADIUS
-      TCP IP
-      UDP
-      DNS
-      Wireshark
-      Packet Analysis
-
+      Certificate-based auth
     Identity and Authentication
       WebAuthn
       FIDO2
-      CTAP2
-      Passkeys
-      Platform Authenticators
-      Roaming Authenticators
-      Synced Passkeys
-      Resident Credentials
-      User Verification
       IAM
-      RBAC
-      ABAC
-      Privileged Access Management
-      JWT
-      PKCE
-      Session Management
-
-    IoT and Embedded Security
-      Device Identity
-      Device Provisioning
-      Device Certificate Enrollment
-      Trust Establishment
-      Secure Device Communication
-      Secure Boot
-      Measured Boot
-      Firmware Signing
-      Remote Attestation
-      Embedded Linux
-      Linux
-      FreeRTOS
-      QNX
-      ARM Architecture
-      TPM
-      Secure Elements
-      Crypto Accelerators
-      Lightweight Cryptography
-      CBOR
-      C.509
-
+      Passwordless
+    IoT Security
+      Device identity
+      Trust establishment
+      Secure device communication
     Backend Engineering
-      Programming Languages
-        Python
-        JavaScript
-        Golang
-        C
-      Frameworks
-        Django
-        Django REST Framework
-        Flask
-        FastAPI
-        PyQt6
-      API Engineering
-        REST APIs
-        Authentication
-        Authorization
-        Rate Limiting
-      Databases
-        PostgreSQL
-        MongoDB
-        Redis
-      Application Security
-        OWASP Top 10
-        Input Validation
-        Secure Sessions
-        Secrets Management
-      Testing
-        Unit Testing
-        Integration Testing
-        API Testing
-        Security Testing
-
-    AI and Machine Learning
-      Mathematics and Statistics
-      Python for AI
-      Machine Learning
-        Supervised Learning
-        Unsupervised Learning
-        Reinforcement Learning
-      Deep Learning
-        Neural Networks
-        CNN
-        Transformers
-      Natural Language Processing
-      Generative AI
-        LLMs
-        Embeddings
-        Prompt Engineering
-        Fine Tuning
-      RAG
-      Vector Databases
-      AI Agents
-      Multi Agent Systems
-      Model Context Protocol
-      AI Model Evaluation
-      AI Assisted Development
-
-    AI for Cybersecurity
-      AI Based Threat Detection
-      PKI Anomaly Detection
-      Certificate Risk Prediction
-      Security Log Analysis
-      Intelligent Certificate Monitoring
-      Malware Detection
-      Intrusion Detection
-      Vulnerability Analysis
-      AI Driven SOC
-      Automated Security Testing
-      Threat Intelligence
-      LLM Security
-      Prompt Injection
-      RAG Security
-      AI Model Security
-      Adversarial Machine Learning
-
-    Infrastructure and DevSecOps
-      Linux Administration
-      Ubuntu and Debian
-      Networking
-      Git and GitHub
-      GitLab
-      Docker
-      Proxmox
-      Nginx
-      Gunicorn
-      CI CD Pipelines
-      Terraform
-      OpenTofu
-      Ansible
-      Cloud Infrastructure
-      HPC
-      Secrets Management
-      Monitoring
-      Logging
-      Deployment Automation
-
+      Python Django Flask
+      Golang
+      REST APIs
+      PostgreSQL
+      MongoDB
+      Redis
     System Design
-      Problem Solving
-      Data Structures and Algorithms
-      Time and Space Complexity
-      OOP
-      SOLID Principles
-      Design Patterns
       LLD
       HLD
-      Distributed Systems
-      Microservices
-      Scalability
-      Load Balancing
-      Fault Tolerance
-      Caching
-      Concurrency
-      Asynchronous Processing
-      Security Architecture
-      Zero Trust Architecture
-      Defense in Depth
-      Threat Modeling
-      Performance Engineering
-```
+      Distributed systems
+      Security architecture
+      Scalable backend
+
 
 **Expanding Technical Focus:** IoT and Embedded Systems Security for Lightweight Systems; AI/ML for Innovative Systems; Backend Architecture; Cloud Technologies and MCP-based Infrastructure Automation.
 
