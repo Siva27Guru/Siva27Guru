@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I approach engineering from the security perspective:
 
-Code → Algorithms → Protocols → Client/Server Handshake → LLD → HLD
+Code → Algorithms → Protocols → LLD → HLD
 
 I believe secure systems are not created by adding security at the end. They are designed with security as a fundamental part of the architecture.
 
