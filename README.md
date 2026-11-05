@@ -218,7 +218,7 @@ If you are interested in cryptography, PKI, cybersecurity, security research, ar
 
 💻 GitHub: [@Siva27Guru](https://github.com/Siva27Guru)
 
-💼 LinkedIn: Connect with me
+💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/siva27guru01/)
 
 ---
 
@@ -228,7 +228,7 @@ If you are interested in cryptography, PKI, cybersecurity, security research, ar
 
 Understanding problems deeply, designing securely, and continuously seeking better ways to solve complex engineering challenges.
 
-💼 LinkedIn: Connect with me
+💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/siva27guru01/)
 
 ⚡ A Continuous Engineering Journey
 
