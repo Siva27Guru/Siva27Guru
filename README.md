@@ -63,15 +63,48 @@ Now Focusing on Public Key Infrastructure (PKI), digital certificates, cryptogra
 - **System Design** — LLD, HLD, distributed systems, security architecture, and scalable backend design
 
 ```mermaid
-flowchart LR
-    A["Solving problems"] --> B["Designing architecture"]
-    B --> C["Finding security and scalability issues"]
-    C --> D["Addressing intelligence requirement"]
-    D --> E["Application defines its own scope securely through AI"]
-    E --> F["Understand vulnerabilities"]
-    F --> G["Provide solutions without compromising traditional standards"]
+mindmap
+  root((Security Engineering))
+    PKI and Certificates
+      X.509
+      Certificate lifecycle
+      CA infrastructure
+      OCSP
+      CRL
+    Cryptography
+      RSA
+      ECC
+      EdDSA
+      Post-Quantum
+      FHE
+    Secure Protocols
+      TLS 1.3
+      mTLS
+      DTLS
+      Certificate-based auth
+    Identity and Authentication
+      WebAuthn
+      FIDO2
+      IAM
+      Passwordless
+    IoT Security
+      Device identity
+      Trust establishment
+      Secure device communication
+    Backend Engineering
+      Python Django Flask
+      Golang
+      REST APIs
+      PostgreSQL
+      MongoDB
+      Redis
+    System Design
+      LLD
+      HLD
+      Distributed systems
+      Security architecture
+      Scalable backend
 ```
-
 
 **Expanding Technical Focus:** IoT and Embedded Systems Security for Lightweight Systems; AI/ML for Innovative Systems; Backend Architecture; Cloud Technologies and MCP-based Infrastructure Automation.
 
