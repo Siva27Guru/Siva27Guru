@@ -62,7 +62,7 @@ Now Focusing on Public Key Infrastructure (PKI), digital certificates, cryptogra
 - **Backend Engineering** — Python (Django/Flask), Golang, REST APIs, PostgreSQL, MongoDB, Redis
 - **System Design** — LLD, HLD, distributed systems, security architecture, and scalable backend design
 
-mindmap
+```mermaid
   root((Security Engineering))
     PKI and Certificates
       PKI Architecture
@@ -285,6 +285,7 @@ mindmap
       Defense in Depth
       Threat Modeling
       Performance Engineering
+```
 
 **Expanding Technical Focus:** IoT and Embedded Systems Security for Lightweight Systems; AI/ML for Innovative Systems; Backend Architecture; Cloud Technologies and MCP-based Infrastructure Automation.
 
