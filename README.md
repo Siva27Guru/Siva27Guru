@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🧭 My Engineering Philosophy                                        
+# 🧭 Engineering Philosophy                                        
 
 I approach engineering from the security perspective:
 
