@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🧭 My Engineering Philosophy
-
-**Passion to Dream  → Work To Do  →  Career to Drive**
+# 🧭 My Engineering Philosophy                                        **Passion to Dream  → Work To Do  →  Career to Drive**
 
 I approach engineering from the security perspective:
 
