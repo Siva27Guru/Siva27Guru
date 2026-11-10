@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 -->
 # 🧭 My Engineering Philosophy
 
+**Passion to Dream  → Work To Do  →  Career to Drive**
+
 I approach engineering from the security perspective:
 
 **Code → Algorithms → Protocols → LLD → HLD**
