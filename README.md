@@ -1,4 +1,5 @@
 ## Hi I am Siva Guru, 
+## Moto : **Passion to Dream  → Work To Do  →  Career to Drive** 
 ## can verify me @76e2d5c4bcc52001085c7b25251ed620b01677455b5e45441776f0fa4aa9a7b6 👋
 
 <!--
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🧭 My Engineering Philosophy                                        **Passion to Dream  → Work To Do  →  Career to Drive**
+# 🧭 My Engineering Philosophy                                        
 
 I approach engineering from the security perspective:
 
