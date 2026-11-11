@@ -55,14 +55,14 @@ flowchart LR
 Now Focusing on Public Key Infrastructure (PKI), digital certificates, cryptographic systems, and secure communication protocols. My work combines product development and R&D, exploring practical applications of security technologies across modern authentication and communication systems.
 
 ### Current work areas
-
+<!--
 - **PKI & Certificate Management** — X.509, certificate lifecycle, CA infrastructure, OCSP, CRL
 - **Cryptography** — RSA, ECC, EdDSA, Post-Quantum Cryptography, and FHE
 - **Secure Protocols** — TLS 1.3, mTLS, DTLS, and certificate-based authentication
 - **Identity & Authentication** — WebAuthn, FIDO2, IAM, and passwordless authentication
 - **IoT Security** — Device identity, trust establishment, and secure device communication
 - **Backend Engineering** — Python (Django/Flask), Golang, REST APIs, PostgreSQL, MongoDB, Redis
-- **System Design** — LLD, HLD, distributed systems, security architecture, and scalable backend design
+- **System Design** — LLD, HLD, distributed systems, security architecture, and scalable backend design-->
 
 ```mermaid
 mindmap
