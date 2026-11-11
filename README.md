@@ -66,7 +66,7 @@ Now Focusing on Public Key Infrastructure (PKI), digital certificates, cryptogra
 
 ```mermaid
 mindmap
-  root((Security Engineering))
+  root((Security Engineering and Research))
     PKI and Certificates
       X.509
       Certificate lifecycle
