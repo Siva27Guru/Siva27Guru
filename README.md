@@ -1,4 +1,5 @@
-## Hi I am Siva Guru, 
+## Hi I am [Siva Guru] (https://siva27guru.github.io/Siva_Guru_Profile/), 
+## To Know me click on my name
 ## 12 hours for : **Passion to Dream  → Work To Do  →  Career to Drive** 
 ## can verify me @76e2d5c4bcc52001085c7b25251ed620b01677455b5e45441776f0fa4aa9a7b6 👋
 
@@ -202,6 +203,30 @@ Because meaningful open-source development happens when knowledge flows in every
 
 **Build → Document → Experiment → Validate → Share → Improve.**
 
+| Level | Focus | What it means |
+|---|---|---|
+| 🌱 **Beginners** | Learn by Building | Understand programming fundamentals, explore real-world use cases, and discover the practical value of technology through hands-on implementation. |
+| 🏗️ **Intermediate Developers** | Think and Architect | Develop decision-making capabilities by evaluating design choices, comparing approaches, understanding trade-offs, and improving architectural efficiency, scalability, and security. |
+| 🚀 **Experts** | Review, Challenge and Innovate | Share technical expertise, challenge existing implementations, identify improvement opportunities, and contribute suggestions that make projects more efficient, secure, scalable, and reliable. |
+
+My intention is to make every repository a shared engineering space where beginners learn, intermediates develop architectural thinking, and experts help drive continuous improvement.
+
+Because meaningful open-source development happens when knowledge flows in every direction.
+
+**Build → Document → Experiment → Validate → Share → Improve.**
+
+```mermaid
+flowchart LR
+    B["Build"] --> D["Document"] --> E["Experiment"] --> V["Validate"] --> S["Share"] --> I["Improve"]
+    I -.->|"next iteration"| B
+    BG["🌱 Beginners learn"] -.-> B
+    IM["🏗️ Intermediates architect"] -.-> E
+    EX["🚀 Experts review"] -.-> V
+```
+
+---
+
+# 💬 Let's Connect
 ```mermaid
 flowchart LR
     B["Build"] --> D["Document"] --> E["Experiment"] --> V["Validate"] --> S["Share"] --> I["Improve"]
