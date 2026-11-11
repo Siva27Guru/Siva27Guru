@@ -227,18 +227,6 @@ flowchart LR
 ---
 
 # 💬 Let's Connect
-```mermaid
-flowchart LR
-    B["Build"] --> D["Document"] --> E["Experiment"] --> V["Validate"] --> S["Share"] --> I["Improve"]
-    I -.->|"next iteration"| B
-    BG["🌱 Beginners learn"] -.-> B
-    IM["🏗️ Intermediates architect"] -.-> E
-    EX["🚀 Experts review"] -.-> V
-```
-
----
-
-# 💬 Let's Connect
 
 If you are interested in cryptography, PKI, cybersecurity, security research, architecture, or open-source engineering, let's exchange ideas and build something meaningful.
 
