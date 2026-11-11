@@ -1,4 +1,4 @@
-## Hi I am [Siva Guru] (https://siva27guru.github.io/Siva_Guru_Profile/), 
+## Hi I am [Siva Guru] (https://siva27guru.github.io/Siva_Guru_Profile/)
 ## To Know me click on my name
 ## 12 hours for : **Passion to Dream  → Work To Do  →  Career to Drive** 
 ## can verify me @76e2d5c4bcc52001085c7b25251ed620b01677455b5e45441776f0fa4aa9a7b6 👋
